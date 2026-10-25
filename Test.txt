@@ -1,0 +1,4 @@
+Hi., This is a sample file to show features of GitHub.
+Next we will look on to Git commands
+
+Thank you!
