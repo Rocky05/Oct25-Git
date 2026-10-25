@@ -3,3 +3,5 @@ Next we will look on to Git commands
 
 Now I'm explaining branching strategy.
 Thank you!
+
+I'm changing this file to show Git pull
