@@ -1,4 +1,5 @@
 Hi., This is a sample file to show features of GitHub.
 Next we will look on to Git commands
 
+Now I'm explaining branching strategy.
 Thank you!
